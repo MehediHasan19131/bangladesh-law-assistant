@@ -1,0 +1,88 @@
+{"id": "q001", "category": "en_constitution", "question": "What is the state language of Bangladesh?", "gold": ["constitution:3"], "facts": ["Bangla", "Bengali", "বাংলা"], "answerable": true}
+{"id": "q002", "category": "en_constitution", "question": "Are all citizens equal before the law?", "gold": ["constitution:27"], "facts": ["equal"], "answerable": true}
+{"id": "q003", "category": "en_constitution", "question": "Can the state discriminate against a citizen because of religion or sex?", "gold": ["constitution:28"], "facts": ["discriminat"], "answerable": true}
+{"id": "q004", "category": "en_constitution", "question": "Do citizens have equal opportunity for government jobs?", "gold": ["constitution:29"], "facts": ["equal"], "answerable": true}
+{"id": "q005", "category": "en_constitution", "question": "If I am arrested, how soon must I be produced before a magistrate?", "gold": ["constitution:33"], "facts": ["24", "twenty four", "twenty-four", "২৪"], "answerable": true}
+{"id": "q006", "category": "en_constitution", "question": "Can a person be punished twice for the same offence?", "gold": ["constitution:35"], "facts": ["once"], "answerable": true}
+{"id": "q007", "category": "en_constitution", "question": "Is freedom of speech protected in Bangladesh?", "gold": ["constitution:39"], "facts": ["speech"], "answerable": true}
+{"id": "q008", "category": "en_constitution", "question": "Do citizens have the right to hold peaceful public meetings?", "gold": ["constitution:37"], "facts": ["peace", "without arms"], "answerable": true}
+{"id": "q009", "category": "en_constitution", "question": "Do I have the right to form an association or union?", "gold": ["constitution:38", "labour:176"], "facts": ["association", "union"], "answerable": true}
+{"id": "q010", "category": "en_constitution", "question": "Is the privacy of my letters and communications protected?", "gold": ["constitution:43"], "facts": ["correspondence", "communication"], "answerable": true}
+{"id": "q011", "category": "en_constitution", "question": "What is the minimum age to be elected as a member of Parliament?", "gold": ["constitution:66"], "facts": ["25", "twenty-five", "twenty five", "২৫"], "answerable": true}
+{"id": "q012", "category": "en_constitution", "question": "What happens if an MP votes against their own party in Parliament?", "gold": ["constitution:70"], "facts": ["vacate", "vacant"], "answerable": true}
+{"id": "q013", "category": "en_constitution", "question": "How long is the President's term of office?", "gold": ["constitution:50"], "facts": ["five", "5"], "answerable": true}
+{"id": "q014", "category": "en_constitution", "question": "Who appoints the Chief Justice of Bangladesh?", "gold": ["constitution:95"], "facts": ["President"], "answerable": true}
+{"id": "q015", "category": "en_constitution", "question": "How can I go to court if my fundamental rights are violated?", "gold": ["constitution:44", "constitution:102"], "facts": ["High Court"], "answerable": true}
+{"id": "q016", "category": "en_constitution", "question": "How many Election Commissioners can there be besides the Chief Election Commissioner?", "gold": ["constitution:118"], "facts": ["four", "4"], "answerable": true}
+{"id": "q017", "category": "en_constitution", "question": "What is the minimum age to register as a voter?", "gold": ["constitution:122"], "facts": ["18", "eighteen"], "answerable": true}
+{"id": "q018", "category": "en_constitution", "question": "Who is the head of the Cabinet?", "gold": ["constitution:55"], "facts": ["Prime Minister"], "answerable": true}
+{"id": "q019", "category": "en_constitution", "question": "How many votes are needed in Parliament to amend the Constitution?", "gold": ["constitution:142"], "facts": ["two thirds", "two-thirds", "2/3"], "answerable": true}
+{"id": "q020", "category": "en_constitution", "question": "What does the Constitution say about free and compulsory education?", "gold": ["constitution:17"], "facts": ["free", "compulsory"], "answerable": true}
+{"id": "q021", "category": "en_constitution", "question": "Which law is supreme in Bangladesh?", "gold": ["constitution:7"], "facts": ["supreme", "Constitution"], "answerable": true}
+{"id": "q022", "category": "en_constitution", "question": "What are the colours of the national flag?", "gold": ["constitution:4"], "facts": ["red", "green"], "answerable": true}
+{"id": "q023", "category": "en_constitution", "question": "What is the national anthem of Bangladesh?", "gold": ["constitution:4"], "facts": ["Amar Sonar Bangla", "Sonar Bangla"], "answerable": true}
+{"id": "q024", "category": "en_constitution", "question": "Can the government take my property without compensation?", "gold": ["constitution:42"], "facts": ["compensation"], "answerable": true}
+{"id": "q025", "category": "en_constitution", "question": "Can a citizen move freely and live anywhere in Bangladesh?", "gold": ["constitution:36"], "facts": ["move freely", "reside", "settle"], "answerable": true}
+{"id": "q026", "category": "en_constitution", "question": "Is freedom of religion guaranteed?", "gold": ["constitution:41"], "facts": ["religion"], "answerable": true}
+{"id": "q027", "category": "en_constitution", "question": "What are the state's duties regarding public health and nutrition?", "gold": ["constitution:18"], "facts": ["health", "nutrition"], "answerable": true}
+{"id": "q028", "category": "bn_constitution", "question": "প্রজাতন্ত্রের রাষ্ট্রভাষা কী?", "gold": ["constitution:3"], "facts": ["বাংলা"], "answerable": true}
+{"id": "q029", "category": "bn_constitution", "question": "গ্রেপ্তার হলে কত ঘণ্টার মধ্যে ম্যাজিস্ট্রেটের সামনে হাজির করতে হবে?", "gold": ["constitution:33"], "facts": ["চব্বিশ", "২৪", "24"], "answerable": true}
+{"id": "q030", "category": "bn_constitution", "question": "আইনের দৃষ্টিতে কি সব নাগরিক সমান?", "gold": ["constitution:27"], "facts": ["সমান"], "answerable": true}
+{"id": "q031", "category": "bn_constitution", "question": "সংসদ সদস্য হওয়ার জন্য ন্যূনতম বয়স কত?", "gold": ["constitution:66"], "facts": ["পঁচিশ", "২৫", "25"], "answerable": true}
+{"id": "q032", "category": "bn_constitution", "question": "রাষ্ট্রপতির কার্যকাল কত বছর?", "gold": ["constitution:50"], "facts": ["পাঁচ", "৫", "5"], "answerable": true}
+{"id": "q033", "category": "bn_constitution", "question": "সংবিধানে চিন্তা ও বাকস্বাধীনতা সম্পর্কে কী বলা আছে?", "gold": ["constitution:39"], "facts": ["স্বাধীনতা"], "answerable": true}
+{"id": "q034", "category": "bn_constitution", "question": "সংবিধান সংশোধনের জন্য সংসদে কত ভোট প্রয়োজন?", "gold": ["constitution:142"], "facts": ["দুই-তৃতীয়াংশ", "দুই তৃতীয়াংশ", "two-thirds"], "answerable": true}
+{"id": "q035", "category": "bn_constitution", "question": "ভোটার হওয়ার জন্য বয়স কত হতে হবে?", "gold": ["constitution:122"], "facts": ["আঠার", "১৮", "18"], "answerable": true}
+{"id": "q036", "category": "bn_constitution", "question": "নির্বাচন কমিশন কাদের নিয়ে গঠিত?", "gold": ["constitution:118"], "facts": ["প্রধান নির্বাচন কমিশনার"], "answerable": true}
+{"id": "q037", "category": "bn_constitution", "question": "মৌলিক অধিকার লঙ্ঘিত হলে প্রতিকারের জন্য কোথায় যাওয়া যায়?", "gold": ["constitution:44", "constitution:102"], "facts": ["হাইকোর্ট"], "answerable": true}
+{"id": "q038", "category": "bn_constitution", "question": "সংবিধান অনুযায়ী নারী ও পুরুষের অধিকার কি সমান?", "gold": ["constitution:28"], "facts": ["সমান"], "answerable": true}
+{"id": "q039", "category": "bn_constitution", "question": "প্রধানমন্ত্রীর পদ কখন শূন্য হয়?", "gold": ["constitution:57"], "facts": ["পদত্যাগ"], "answerable": true}
+{"id": "q040", "category": "bn_labour", "question": "একজন প্রাপ্তবয়স্ক শ্রমিক দিনে সাধারণত কত ঘণ্টা কাজ করবেন?", "gold": ["labour:100"], "facts": ["আট", "৮", "8"], "answerable": true}
+{"id": "q041", "category": "bn_labour", "question": "সপ্তাহে সাধারণত কত ঘণ্টার বেশি কাজ করানো যাবে না?", "gold": ["labour:102"], "facts": ["আটচল্লিশ", "৪৮", "48"], "answerable": true}
+{"id": "q042", "category": "bn_labour", "question": "ওভারটাইম কাজের জন্য কী হারে ভাতা দিতে হয়?", "gold": ["labour:108"], "facts": ["দ্বিগুণ", "দ্বিগুন"], "answerable": true}
+{"id": "q043", "category": "bn_labour", "question": "শ্রমিকরা বছরে কত দিন নৈমিত্তিক ছুটি পান?", "gold": ["labour:115"], "facts": ["দশ", "১০", "10"], "answerable": true}
+{"id": "q044", "category": "bn_labour", "question": "বছরে কত দিন পূর্ণ মজুরিতে অসুস্থতাজনিত ছুটি পাওয়া যায়?", "gold": ["labour:116"], "facts": ["চৌদ্দ", "১৪", "14"], "answerable": true}
+{"id": "q045", "category": "bn_labour", "question": "শ্রমিকদের উৎসব ছুটি কত দিন?", "gold": ["labour:118"], "facts": ["তের", "১৩", "13"], "answerable": true}
+{"id": "q046", "category": "bn_labour", "question": "নারী শ্রমিক কত দিনের প্রসূতি কল্যাণ সুবিধা পান?", "gold": ["labour:46"], "facts": ["ষাট", "৬০", "60", "১২০", "120"], "answerable": true}
+{"id": "q047", "category": "bn_labour", "question": "শ্রমিকের অবসর গ্রহণের বয়স কত?", "gold": ["labour:28"], "facts": ["ষাট", "৬০", "60"], "answerable": true}
+{"id": "q048", "category": "bn_labour", "question": "চাকরি শেষ হলে শ্রমিকের চূড়ান্ত পাওনা কত দিনের মধ্যে পরিশোধ করতে হবে?", "gold": ["labour:30"], "facts": ["ত্রিশ", "৩০", "30"], "answerable": true}
+{"id": "q049", "category": "bn_labour", "question": "মজুরিকাল শেষ হওয়ার কত দিনের মধ্যে মজুরি পরিশোধ করতে হবে?", "gold": ["labour:123"], "facts": ["সাত", "৭", "7"], "answerable": true}
+{"id": "q050", "category": "bn_labour", "question": "নিয়োগপত্র ছাড়া কি শ্রমিক নিয়োগ করা যায়?", "gold": ["labour:5"], "facts": ["নিয়োগপত্র"], "answerable": true}
+{"id": "q051", "category": "bn_labour", "question": "শিশুদের কি কোনো প্রতিষ্ঠানে কাজে নিয়োগ করা যায়?", "gold": ["labour:34"], "facts": ["যাইবে না", "যাবে না", "নিষিদ্ধ", "পারবে না"], "answerable": true}
+{"id": "q052", "category": "bn_labour", "question": "স্থায়ী শ্রমিক চাকরি থেকে ইস্তফা দিতে চাইলে কত দিনের নোটিশ দিতে হয়?", "gold": ["labour:27"], "facts": ["ষাট", "৬০", "60"], "answerable": true}
+{"id": "q053", "category": "bn_labour", "question": "কারখানার শ্রমিকরা সপ্তাহে কত দিন ছুটি পান?", "gold": ["labour:103"], "facts": ["এক দিন", "একদিন", "১ দিন"], "answerable": true}
+{"id": "q054", "category": "bn_labour", "question": "কর্মস্থলে দুর্ঘটনায় আহত হলে কি ক্ষতিপূরণ পাওয়া যায়?", "gold": ["labour:150"], "facts": ["ক্ষতিপূরণ"], "answerable": true}
+{"id": "q055", "category": "bn_labour", "question": "কতজন নারী শ্রমিক থাকলে প্রতিষ্ঠানে শিশু কক্ষ রাখতে হয়?", "gold": ["labour:94"], "facts": ["চল্লিশ", "৪০", "40"], "answerable": true}
+{"id": "q056", "category": "bn_consumer", "question": "ভেজাল পণ্য বিক্রি করলে শাস্তি কী?", "gold": ["consumer:41"], "facts": ["তিন বৎসর", "তিন বছর", "দুই লক্ষ", "২ লক্ষ"], "answerable": true}
+{"id": "q057", "category": "bn_consumer", "question": "দোকানে পণ্যের মূল্য তালিকা না টাঙালে কী শাস্তি হতে পারে?", "gold": ["consumer:38"], "facts": ["কারাদণ্ড", "অর্থদণ্ড", "জরিমানা"], "answerable": true}
+{"id": "q058", "category": "bn_consumer", "question": "ওজনে কম দিলে কী দণ্ড হতে পারে?", "gold": ["consumer:46"], "facts": ["কারাদণ্ড", "অর্থদণ্ড", "জরিমানা"], "answerable": true}
+{"id": "q059", "category": "bn_consumer", "question": "ভোক্তা অধিকার লঙ্ঘনের অভিযোগ কত দিনের মধ্যে করতে হবে?", "gold": ["consumer:60"], "facts": ["ত্রিশ", "৩০", "30"], "answerable": true}
+{"id": "q060", "category": "bn_consumer", "question": "মিথ্যা বিজ্ঞাপন দিয়ে ক্রেতাদের প্রতারণা করার শাস্তি কী?", "gold": ["consumer:44"], "facts": ["এক বৎসর", "এক বছর", "দুই লক্ষ", "২ লক্ষ"], "answerable": true}
+{"id": "q061", "category": "bn_consumer", "question": "নির্ধারিত মূল্যের বেশি দামে পণ্য বিক্রি করলে কী শাস্তি?", "gold": ["consumer:40"], "facts": ["এক বৎসর", "এক বছর", "কারাদণ্ড"], "answerable": true}
+{"id": "q062", "category": "bn_consumer", "question": "অভিযোগকারী কি আদায়কৃত জরিমানার কোনো অংশ পান?", "gold": ["consumer:76"], "facts": ["২৫", "পঁচিশ", "25"], "answerable": true}
+{"id": "q063", "category": "bn_consumer", "question": "নকল পণ্য তৈরি করলে কী শাস্তি হয়?", "gold": ["consumer:50"], "facts": ["তিন বৎসর", "তিন বছর", "দুই লক্ষ", "২ লক্ষ"], "answerable": true}
+{"id": "q064", "category": "bn_rti", "question": "তথ্য অধিকার আইনে আবেদন করলে কত দিনের মধ্যে তথ্য দিতে হয়?", "gold": ["rti:9"], "facts": ["বিশ", "২০", "20"], "answerable": true}
+{"id": "q065", "category": "bn_rti", "question": "তথ্য চাওয়ার আবেদন কীভাবে করতে হয়?", "gold": ["rti:8"], "facts": ["লিখিত", "ই-মেইল", "ইলেক্ট্রনিক", "ইলেকট্রনিক"], "answerable": true}
+{"id": "q066", "category": "bn_rti", "question": "কোন কোন তথ্য প্রদান করতে কর্তৃপক্ষ বাধ্য নয়?", "gold": ["rti:7"], "facts": ["বাধ্য"], "answerable": true}
+{"id": "q067", "category": "bn_rti", "question": "তথ্য কমিশন কতজন কমিশনার নিয়ে গঠিত?", "gold": ["rti:12"], "facts": ["তিন", "৩", "দুই", "২"], "answerable": true}
+{"id": "q068", "category": "bn_rti", "question": "সময়মতো তথ্য না পেলে কোথায় আপিল করা যায়?", "gold": ["rti:24"], "facts": ["আপীল", "আপিল"], "answerable": true}
+{"id": "q069", "category": "bn_rti", "question": "কোন কোন কারণে তথ্য কমিশনে অভিযোগ দায়ের করা যায়?", "gold": ["rti:25", "rti:13"], "facts": ["অভিযোগ"], "answerable": true}
+{"id": "q070", "category": "crosslingual", "question": "How many hours can an adult worker normally be made to work in a day?", "gold": ["labour:100"], "facts": ["eight", "8", "আট"], "answerable": true}
+{"id": "q071", "category": "crosslingual", "question": "How long is maternity leave for women workers?", "gold": ["labour:46"], "facts": ["60", "sixty", "120", "ষাট"], "answerable": true}
+{"id": "q072", "category": "crosslingual", "question": "What is the retirement age for workers under the Bangladesh Labour Act?", "gold": ["labour:28"], "facts": ["60", "sixty"], "answerable": true}
+{"id": "q073", "category": "crosslingual", "question": "How many days of paid sick leave does a worker get per year?", "gold": ["labour:116"], "facts": ["14", "fourteen"], "answerable": true}
+{"id": "q074", "category": "crosslingual", "question": "What is the punishment for selling adulterated goods or medicine?", "gold": ["consumer:41"], "facts": ["three", "3 year", "two lakh", "200,000", "2 lakh"], "answerable": true}
+{"id": "q075", "category": "crosslingual", "question": "Within how many working days must an authority provide requested information under the Right to Information Act?", "gold": ["rti:9"], "facts": ["20", "twenty"], "answerable": true}
+{"id": "q076", "category": "crosslingual", "question": "Within how many days must a consumer file a complaint?", "gold": ["consumer:60"], "facts": ["30", "thirty"], "answerable": true}
+{"id": "q077", "category": "crosslingual", "question": "How many festival holidays do workers get per year?", "gold": ["labour:118"], "facts": ["13", "thirteen"], "answerable": true}
+{"id": "q078", "category": "crosslingual", "question": "What is the overtime pay rate for workers?", "gold": ["labour:108"], "facts": ["double", "twice", "two times", "2x"], "answerable": true}
+{"id": "q079", "category": "unanswerable", "question": "What is the income tax rate for individuals in Bangladesh?", "gold": [], "facts": [], "answerable": false}
+{"id": "q080", "category": "unanswerable", "question": "How do I apply for a Bangladeshi passport?", "gold": [], "facts": [], "answerable": false}
+{"id": "q081", "category": "unanswerable", "question": "What is the punishment for theft under the Penal Code?", "gold": [], "facts": [], "answerable": false}
+{"id": "q082", "category": "unanswerable", "question": "What is the speed limit on highways in Bangladesh?", "gold": [], "facts": [], "answerable": false}
+{"id": "q083", "category": "unanswerable", "question": "Who won the last general election in Bangladesh?", "gold": [], "facts": [], "answerable": false}
+{"id": "q084", "category": "unanswerable", "question": "What is the interest rate on Sanchayapatra savings certificates?", "gold": [], "facts": [], "answerable": false}
+{"id": "q085", "category": "unanswerable", "question": "ঢাকা শহরের জনসংখ্যা কত?", "gold": [], "facts": [], "answerable": false}
+{"id": "q086", "category": "unanswerable", "question": "জমি রেজিস্ট্রেশন ফি কত?", "gold": [], "facts": [], "answerable": false}
+{"id": "q087", "category": "unanswerable", "question": "ড্রাইভিং লাইসেন্স পেতে কী কী কাগজ লাগে?", "gold": [], "facts": [], "answerable": false}
+{"id": "q088", "category": "unanswerable", "question": "বিবাহ নিবন্ধনের ফি কত টাকা?", "gold": [], "facts": [], "answerable": false}

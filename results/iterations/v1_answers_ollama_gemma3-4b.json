@@ -1,0 +1,21 @@
+{
+  "provider": "ollama",
+  "model": "gemma3:4b",
+  "questions": 88,
+  "fact_accuracy": 0.974,
+  "citation_rate": 0.987,
+  "grounded_citation_rate": 0.962,
+  "language_match": 1.0,
+  "false_decline_rate": 0.0,
+  "correct_decline_rate": 0.8,
+  "fact_accuracy_by_category": {
+    "bn_constitution": 1.0,
+    "bn_consumer": 1.0,
+    "bn_labour": 0.938,
+    "bn_rti": 1.0,
+    "crosslingual": 1.0,
+    "en_constitution": 0.963
+  },
+  "latency_ms_p50": 12463,
+  "latency_ms_p90": 17765
+}

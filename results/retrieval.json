@@ -1,0 +1,90 @@
+{
+  "BAAI/bge-m3": {
+    "bm25": {
+      "hit@1": 0.641,
+      "hit@3": 0.769,
+      "hit@5": 0.795,
+      "mrr@10": 0.707,
+      "hit@5_by_category": {
+        "bn_constitution": 0.833,
+        "bn_consumer": 1.0,
+        "bn_labour": 0.938,
+        "bn_rti": 0.5,
+        "crosslingual": 0.0,
+        "en_constitution": 0.963
+      }
+    },
+    "dense": {
+      "hit@1": 0.91,
+      "hit@3": 0.974,
+      "hit@5": 0.987,
+      "mrr@10": 0.941,
+      "hit@5_by_category": {
+        "bn_constitution": 1.0,
+        "bn_consumer": 1.0,
+        "bn_labour": 1.0,
+        "bn_rti": 1.0,
+        "crosslingual": 1.0,
+        "en_constitution": 0.963
+      }
+    },
+    "hybrid": {
+      "hit@1": 0.744,
+      "hit@3": 0.91,
+      "hit@5": 0.91,
+      "mrr@10": 0.835,
+      "hit@5_by_category": {
+        "bn_constitution": 1.0,
+        "bn_consumer": 1.0,
+        "bn_labour": 0.938,
+        "bn_rti": 0.667,
+        "crosslingual": 0.667,
+        "en_constitution": 0.963
+      }
+    }
+  },
+  "intfloat/multilingual-e5-base": {
+    "bm25": {
+      "hit@1": 0.641,
+      "hit@3": 0.769,
+      "hit@5": 0.795,
+      "mrr@10": 0.707,
+      "hit@5_by_category": {
+        "bn_constitution": 0.833,
+        "bn_consumer": 1.0,
+        "bn_labour": 0.938,
+        "bn_rti": 0.5,
+        "crosslingual": 0.0,
+        "en_constitution": 0.963
+      }
+    },
+    "dense": {
+      "hit@1": 0.846,
+      "hit@3": 0.936,
+      "hit@5": 0.974,
+      "mrr@10": 0.897,
+      "hit@5_by_category": {
+        "bn_constitution": 1.0,
+        "bn_consumer": 1.0,
+        "bn_labour": 1.0,
+        "bn_rti": 0.833,
+        "crosslingual": 0.889,
+        "en_constitution": 1.0
+      }
+    },
+    "hybrid": {
+      "hit@1": 0.731,
+      "hit@3": 0.833,
+      "hit@5": 0.885,
+      "mrr@10": 0.801,
+      "hit@5_by_category": {
+        "bn_constitution": 1.0,
+        "bn_consumer": 1.0,
+        "bn_labour": 1.0,
+        "bn_rti": 0.667,
+        "crosslingual": 0.222,
+        "en_constitution": 1.0
+      }
+    }
+  }
+}
